@@ -1,0 +1,2 @@
+# pcinfo
+Shows system info
